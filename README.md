@@ -68,7 +68,7 @@ After training:
   ```
 - Best weights can be found at:
   ```
-  runs/train/yolov11_exp/weights/best.pt
+  runs/train/exp/best.pt
   ```
 
 You can use these weights later for validation or inference.
